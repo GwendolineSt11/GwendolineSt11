@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GwendolineSt11 
-- Follow everything I do @: https://linktr.ee/gwendolinest11
 - Biology student, writer and Discord Developer
 - Currently also working in an AminoApps bot for data scraping ✨
 - Search my profile for its repository in the next couple of days 😊
